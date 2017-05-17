@@ -1,0 +1,20 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "cCYkHDjOioFiLEirRvrsnc4zbOI=",
+			"path": "github.com/astaxie/beego",
+			"revision": "90999717dda6193c6f970eec52e289b0a9e74998",
+			"revisionTime": "2016-12-05T15:14:26Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "f4m09DHEetaanti/GqUJzyCBTaI=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "af8e7d560364b90f732a1d119d17b5506e50447d",
+			"revisionTime": "2017-05-08T12:12:05Z"
+		}
+	],
+	"rootPath": "prometheus_adapter"
+}
